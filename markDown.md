@@ -14,4 +14,16 @@ _italic text_
 ![url image](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png)  
 ![asu image](Downloads/image1.png)
 
+inline code `print(x)`  
+```
+cout<< block code
+sout(block code)
+```
+tasks list  
+- [x] task1
+- [ ] task2
 
+| header 1 | header 2 |
+| -------- | -------- |
+| content1 | content2 |
+| content1 | content2 |
